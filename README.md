@@ -30,4 +30,4 @@ This project aims to develop a deep learning model for lip reading using Convolu
 6. Fine-tune and experiment with different architectures, hyperparameters, and optimization strategies to improve model performance.
 
 ## Credits
-This project was developed by Darshan R as part of University Final Year Project.
+This project was developed by Varun Reddy/Darshan/Arya/Sai as part of University Final Year Project.
